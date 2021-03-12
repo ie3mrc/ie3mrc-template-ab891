@@ -85,4 +85,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-domain: 'https://ie3mrc-template-ab891.netlify.app'
+domain: 'https://ie3mrc-template-ab891.github.app'
